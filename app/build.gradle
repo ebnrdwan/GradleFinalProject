@@ -33,3 +33,4 @@ dependencies {
     compile project (':javajokelib')
     compile project (':andjokelib')
 }
+
