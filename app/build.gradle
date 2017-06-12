@@ -48,8 +48,7 @@ dependencies {
     compile 'com.google.appengine:appengine-endpoints-deps:1.9.42'
     compile 'com.google.code.findbugs:jsr305:2.0.1'
     compile project(path: ':backend', configuration: 'android-endpoints')
-    compile project(path: ':backend')
-    compile project(path: ':backend')
+
 }
 apply plugin: 'com.google.gms.google-services'
 
